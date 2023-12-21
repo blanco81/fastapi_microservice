@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from routers import category, product
-from core.database import Base, engine
+from config.database import Base, engine
 
 app = FastAPI()
 
