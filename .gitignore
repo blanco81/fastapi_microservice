@@ -1,0 +1,15 @@
+### VS Code ###
+.vscode/
+
+### Develop Python ###
+/venv/
+*.env
+*.yml
+Dockerfile
+/__pycache__/
+*.pyc
+
+
+### Alembic File ###
+/alembic/
+*.ini
